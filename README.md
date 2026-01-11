@@ -1,5 +1,6 @@
 <h1 align="center">Bonjour 👋, je suis Clément TS</h1>
 <h3 align="center">Un curieux passionné par l'informatique et le code.</h3>
+
 - Je travaille actuellement sur Notivo, un CRM complet pour gérer votre activité de photographe : clients, événements, devis, factures, paiements, et communications. [Notivo](https://notivo.ctts.fr/)
 
 - Je développe sur mon temps libre avec @BenjaminIcart une plateforme visant à centraliser les plus grandes IA et proposer notre expertise sur le prompt enginering pour offrir des résultats de qualité supérieure. [OneTap AI](https://onetapai.ctts.fr/)
